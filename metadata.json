@@ -1,0 +1,6 @@
+{
+  "name": "Zoom",
+  "description": "Video meetings, team chat, screen sharing, scheduling, and high-thinking AI meeting assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
